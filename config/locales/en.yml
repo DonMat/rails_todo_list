@@ -21,3 +21,6 @@
 
 en:
   hello: "Hello world"
+  errors:
+    task:
+      deadline_from_past: Deadline cannot be from past
